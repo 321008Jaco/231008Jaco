@@ -72,6 +72,6 @@ I'm Jaco Mostert a second year student at The Open Window Institute and I am dou
 <h2 align="center">🫵 How about an quote before you go?</h2>
 
 <blockquote>
-<p align="center">Bears, Beets, Battlestar Galactica.</p>
-<p align="center">- Jim Halpert</p>
+<p align="center">so that at the name of Jesus every knee should bow, in heaven and on earth and under the earth, and every tongue confess that Jesus Christ is Lord, to the glory of God the Father. Therefore, my beloved, as you have always obeyed, so now, not only as in my presence but much more in my absence, work out your own salvation with fear and trembling</p>
+<p align="center">- Philippians 2:10-12 (ESV)</p>
 </blockquote>
